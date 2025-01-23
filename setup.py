@@ -8,7 +8,7 @@ setup(
     description="A library to fetch my dataset in JSON/CSV format.", # Short description
     long_description=open("README.md").read(),  # Long description from README
     long_description_content_type="text/markdown",  # Content type of the README
-    url="https://github.com/mhrafi66/wireless_localization_frs_uofu/tree/main",  # Your GitHub repository
+    url="https://github.com/mhrafi66/wireless_localization_frs_uofu",  # Your GitHub repository
     packages=find_packages(),              # Automatically find packages in the project
     install_requires=[
         "pandas",                          # Dependencies
